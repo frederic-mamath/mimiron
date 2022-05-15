@@ -11,7 +11,7 @@ Open-source domotic
 
 ## Setup
 
-- Setup Arduino IDE: []()
+- [Setup Arduino IDE](https://github.com/frederic-mamath/mimiron/blob/main/documentation/Setup%20Arduino%20IDE.md)
 
 ## Resources
 
