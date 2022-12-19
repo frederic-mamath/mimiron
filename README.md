@@ -21,3 +21,7 @@ Open-source domotic
 - LED strip differences: [Youtube Channel - The Hook Up](https://www.youtube.com/watch?v=QnvircC22hU&t=452s&ab_channel=TheHookUp)
 - How to choose American Wire Gauge: [Flex Fire LEDs](https://www.flexfireleds.com/led-strip-light-voltage-drop-what-is-voltage-drop/)
 - How to choose Power Supply Unit: [QuinLED](https://quinled.info/2018/10/03/power-supply-selection/)
+
+## Articles
+
+- https://medium.com/@fredericmamath/how-to-create-a-http-server-on-a-esp8266-wemos-d1-mini-455dc722ec21
